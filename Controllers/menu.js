@@ -12,14 +12,7 @@ let myFirebase = () => {
     // Your web app's Firebase configuration
     // For Firebase JS SDK v7.20.0 and later, measurementId is optional
     var firebaseConfig = {
-        apiKey: "AIzaSyB9BsaZzpeVTepnhdV6huHEnDcqwbg6X3s",
-        authDomain: "fruit-shop-87c80.firebaseapp.com",
-        databaseURL: "https://fruit-shop-87c80-default-rtdb.asia-southeast1.firebasedatabase.app",
-        projectId: "fruit-shop-87c80",
-        storageBucket: "fruit-shop-87c80.appspot.com",
-        messagingSenderId: "460096943780",
-        appId: "1:460096943780:web:bee76f7e48a6be826c1831",
-        measurementId: "G-KGJEFR5EHC"
+        //firebase key
     };
 
     // Initialize Firebase
