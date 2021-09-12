@@ -2,13 +2,7 @@ import { catchProfileEvent, loadProfile, getAlertBox, loadAlertBox } from "./men
 
 let installFirebase = () => {
     var firebaseConfig2 = {
-        apiKey: "AIzaSyCLggN7iKUtKda3I0gJk2ymFJf7SuQXmK4",
-        authDomain: "shop-533cf.firebaseapp.com",
-        projectId: "shop-533cf",
-        storageBucket: "shop-533cf.appspot.com",
-        messagingSenderId: "289856439213",
-        appId: "1:289856439213:web:e7f182a128bc1ff4ca5724",
-        measurementId: "G-SK14Z3TFKD"
+        //yes, the key is here :)
     };
     // Initialize Firebase
     if (!firebase.apps.length) {
