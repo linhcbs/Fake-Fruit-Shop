@@ -11,8 +11,8 @@ Developer: Thomas Bayer
 Email: bayer@predic8.de
 <br>
 <h2 style="color:red;">NOTES !</h2>
-When you cloned this project, you can't run it because I've hidden something. <br>
-If you want to try it
+<br>
+This project has not been touched or maintained in 3+ years. so it has bugs.
 <h3> Try it at</h3>
 <a href="https://fruit-shop-mu.vercel.app/" target="_blank"> Vercel link </a>
 <br> or <br>
@@ -20,4 +20,6 @@ If you want to try it
 <br>
 <br>
 <h2>- 13/9/2021</h2>
+
+<p> omg did i code this? </p?
 
