@@ -1,6 +1,6 @@
 # Fake Fruit Shop
 ## Mô tả
-Một web bán trái cây online tĩnh từ 2021 
+Một web bán trái cây online tĩnh từ 2021   
 Note: web chưa được bảo trì hay update từ khi đó nên nó có rất nhiều bugs   
 
 API: <a href="https://api.predic8.de/shop/docs"> https://api.predic8.de/shop/docs </a>
